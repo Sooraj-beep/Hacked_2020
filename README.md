@@ -1,7 +1,7 @@
 # Hacked_2020
 
 ### Project detail:
-An AI chatbot able to engage in basic conversation and well-wersed in Canadian politics.
+An AI chatbot able to engage in basic conversation and well-versed in Canadian politics.
 
 ### Library used:
 nltk python library: A natural language processing tool kit which uses unidirectional algorithms to parse through user input and reply in related terms.
